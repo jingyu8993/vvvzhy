@@ -24,6 +24,17 @@
 
 "sites":[
 
+
+    {
+      "key": "直播转点播2",
+      "name": "洪宇🔫电视→直播3",
+      "type": 3,
+      "searchable": 0,
+      "api": "http://127.0.0.1:9978/file/tvbox/lib/live2vod.js",
+      "ext": "http://127.0.0.1:9978/file/tvbox/lib/feimaolive3.json"
+    },									
+
+ 
 // ⇩⇩ 榜单直播 ⇩⇩ 
 {"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"洪宇影视独家资源，私享即可，请勿传播！"},
 {"key":"公告1","name":"📢【Lem声明】勿传播本线路","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/ANNOUNCEMENT.json"}}, 
