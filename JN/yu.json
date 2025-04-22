@@ -31,7 +31,7 @@
       "type": 3,
       "searchable": 0,
       "api": "http://127.0.0.1:9978/file/tvbox/lib/live2vod.js",
-      "ext": "http://127.0.0.1:9978/file/tvbox/lib/feimaolive3.json"
+      "ext": "http://127.0.0.1:9978/file/tvbox/lib/feimaolive2.json"
     },									
 
  
