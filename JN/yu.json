@@ -25,7 +25,11 @@
 "sites":[
 
 // ⇩⇩ 榜单直播 ⇩⇩ 
-{"key":"csp_SbaibaiGuard","name":"洪宇洪宇线路1(SP)","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_AppTTGuard_热播","name":"洪宇🧿热播(APP)","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"csp_AppTTGuard_萌米","name":"洪宇🧿萌米(APP)","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
+{"key":"csp_AppTTGuard_欢视","name":"洪宇🧿欢视(APP)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
+
+ {"key":"csp_SbaibaiGuard","name":"洪宇洪宇线路1(SP)","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"洪宇📢【洪宇】公告","type":3,"api":"csp_Notice","ext":"洪宇影视独家资源，私享即可，请勿传播！"},
 {"key":"公告1","name":"洪宇📢【洪宇声明】勿传播本线路","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/ANNOUNCEMENT.json"}}, 
 {"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"洪宇🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
@@ -85,9 +89,6 @@
 {"key":"csp_AppSxGuard_港迷","name":"洪宇💯港迷(SP)","type":3,"api":"csp_AppSKGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"},
 {"key":"csp_AppSxGuard_木星","name":"洪宇🌞木星(SP)","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 {"key":"csp_AppSxGuard_兄弟","name":"洪宇🍊兄弟(SP)","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="},
-{"key":"csp_AppTTGuard_热播","name":"洪宇🧿热播(APP)","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"key":"csp_AppTTGuard_萌米","name":"洪宇🧿萌米(APP)","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
-{"key":"csp_AppTTGuard_欢视","name":"洪宇🧿欢视(APP)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 {"key":"csp_KekysGuard","name":"洪宇👻可可(SP)","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AueteGuard","name":"洪宇🏝奥特(SP)","type": 3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 
