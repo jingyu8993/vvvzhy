@@ -13,7 +13,14 @@
 "notice": "欢迎使用洪宇影视",
 
 "lives":[
-{"name":"洪宇虎牙一起看","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+    {
+      "name": "洪宇的lPV6",
+      "type": 0,
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/lxxcp/live/refs/heads/main/ydv6.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+ {"name":"洪宇虎牙一起看","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"洪宇斗鱼一起看","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"洪宇YY轮播","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"洪宇国内直播[今日回看]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
