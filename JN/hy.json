@@ -13,7 +13,116 @@
 "notice": "欢迎使用洪宇影视",
 
 "lives":[
+{"name":"【洪宇本地一起看3】","type":0,"url":"./yqk3.m3u","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},        
+{"name":"【洪宇网络一起看3】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/yqk3.m3u","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},        
+        {
+            "name": "加密冰红茶",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://fy.188766.xyz/?ip=192.168.1.2&mima=499144377",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+
+
+
+
+        {
+            "name": "tv1",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/ZBY/refs/heads/main/tv1.txt",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "洪宇的斗鱼",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "洪宇的YY",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
     {
+      "name": "洪宇的lPV6",
+      "type": 0,
+      "url": "./live/lPV6.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+        {
+            "name": "洪宇的lpv4",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "timeout": 10
+        },
+
+
+          {
+            "name": "洪宇lpv4[2]",
+            "type": 0,
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/lib/iptv.m3u",
+            "timeout": 10
+        }, 
+        {
+            "name": "洪宇lpv4",
+            "type": 0,
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ethan-Men/8159-TV/refs/heads/master/output/ipv4/result.m3u",
+            "timeout": 10
+        },
+        {
+            "name": "洪宇虎牙一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://yun.urldwz.com/f/BE9PSL/huyayqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "洪宇斗鱼一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://yun.urldwz.com/f/NR9qiA/douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "洪宇YY轮播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://yun.urldwz.com/f/dlkycZ/yylunbo.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "洪宇AI直播",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10
+        },
+        {
+            "name": "洪宇Guovin",
+            "type": 0,
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10
+        },
+        {
+            "name": "洪宇咪咕直播",
+            "type": 0,
+            "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
+            "timeout": 10
+        },
+ {
       "name": "洪宇的lPV6",
       "type": 0,
       "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/lxxcp/live/refs/heads/main/ydv6.txt",
