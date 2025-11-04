@@ -39,8 +39,53 @@
  {"key":"csp_SbaibaiGuard","name":"洪宇洪宇线路1(SP)","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"洪宇📢【洪宇】公告","type":3,"api":"csp_Notice","ext":"洪宇影视独家资源，私享即可，请勿传播！"},
 {"key":"公告1","name":"洪宇📢【洪宇声明】勿传播本线路","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/ANNOUNCEMENT.json"}}, 
-{"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"洪宇🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
-{"key":"csp_JPJGuard","name":"洪宇洪宇荐片(SP)","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+//{"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"洪宇🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
+
+
+
+
+
+
+
+        {"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
+        "key":"YU_Market",
+        "name":"📢洪宇┃网络应用商店",
+        "type":3,"api":"csp_Market",
+        "searchable":0,
+        "changeable":0,
+        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+
+        
+    {
+      "key": "csp_XYQHiker_网络虎牙直播",
+      "name": "🎧洪宇┃网络虎牙",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络虎牙直播.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_网络斗鱼直播",
+      "name": "🎧洪宇┃网络斗鱼",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络斗鱼直播.json"
+    }
+    
+    
+    
+    
+
+
+ {"key":"csp_JPJGuard","name":"洪宇洪宇荐片(SP)","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_FirstAidGuard","name":"洪宇🚑急救教学(SP)","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
 {"key":"csp_Douban","name":"洪宇📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
