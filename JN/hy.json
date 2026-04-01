@@ -177,7 +177,7 @@
         "type":3,"api":"csp_Market",
         "searchable":0,
         "changeable":0,
-        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+        "ext":"https://ghfast.top/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
 
         
     {
@@ -188,8 +188,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络虎牙直播.json"
+      "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/hy.json"
     },
 
     {
@@ -200,8 +200,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络斗鱼直播.json"
+      "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/dy.json"
     },
     
     
