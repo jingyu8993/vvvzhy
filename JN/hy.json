@@ -171,6 +171,91 @@
 
 
 
+
+        
+            {
+                      "key": "mayun2_XYQHiker_虎牙直播",
+                            "name": "🐞虎牙2🐞洪宇码云🐞",
+                                  "type": 3,
+                                        "api": "csp_XYQHiker",
+                                              "searchable": 1,
+                                                    "quickSearch": 0,
+                                                          "filterable": 0,
+                                                                "jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+                                                                      "ext": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/hy2.json"
+            },
+
+        {"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
+        "key":"YU_Market",
+        "name":"🐞商店🐞Github洪宇🐞",
+        "type":3,"api":"csp_Market",
+        "searchable":0,
+        "changeable":0,
+        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+
+        
+    {
+      "key": "csp_XYQHiker_网络虎牙直播",
+      "name": "🐞虎牙🐞Github洪宇🐞",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/hy.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_网络斗鱼直播",
+      "name": "🐞斗鱼🐞Github洪宇🐞",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/dy.json"
+    },
+
+
+
+
+        {"jar":"https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/jar/yt.jar",
+        "key": "live-sex01",
+        "name": "📲直播电视┃码云┃",
+        "type": 3,
+        "api": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/apiv.js",
+        "ext":"https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/0924/txt.txt"
+    },  
+
+
+        {"jar":"https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/jar/yt.jar",
+        "key": "live-sex02",
+        "name": "Download┃📲直播电视┃",
+        "type": 3,
+        "api": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/apiv.js",
+        "ext":"http://127.0.0.1:9978/file/Download/txt.txt"
+    },  
+
+        {"jar":"https://gitee.com/yu_shan_fei/vvzhy/raw/yu/yu/jar/yt.jar",
+                "key": "live-sex03",
+                        "name": "📲直播电视┃Github┃",
+                                "type": 3,
+                                        "api": "https://gitee.com/yu_shan_fei/vvzhy/raw/yu/yu/0924/apiv.js",
+                                                "ext":"https://ghfast.top/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/txt.txt"
+                                                    },  
+
+
+{"jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/yu0305.jar","key":"drjs_洪宇资源","name":"洪宇😎洪宇资源","type":3,"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/libs/drpy2.min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/js/洪宇资源.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/json/yuyu.json"},
+
+
+        
+
+
+
+
+
         {"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
         "key":"YU_Market",
         "name":"📢洪宇┃网络应用商店",
